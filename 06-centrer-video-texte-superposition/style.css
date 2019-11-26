@@ -1,0 +1,19 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+video {
+  width: 50%;
+}
+
+#textesuperpose{
+  text-transform: uppercase;
+  position: absolute;
+  color:red;
+}
