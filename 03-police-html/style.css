@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "typefesse";
+  src: url("/fonts/Typefesse_Claire-Obscure.woff2") format("woff2"),
+    url("/fonts/Typefesse_Claire-Obscure.woff") format("woff");
+}
+
+body {
+  font-family: typefesse;
+  font-size: 200px;
+}
